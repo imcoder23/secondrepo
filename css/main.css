@@ -1,0 +1,62 @@
+/*
+*{
+	border:10px solid rgba(0,0,0,0.3);
+}*/
+
+
+
+body{
+  background-color:white;
+
+}
+
+/*#left{
+	float:left;
+}
+#right{
+	float:right;
+}
+p{
+  font-size: 50px;
+}
+*/
+
+.nav{
+
+	background-color:aquamarine;
+	margin:50px;
+	padding:50px;
+}
+li{
+	background-color:blue;
+	display: inline-block;
+	padding:50px;
+
+
+}
+
+.box{
+	float:left;
+	width:50%;
+}
+
+.box img{
+	height:50px
+	width:50px;
+	border-style: solid;
+}
+
+bg-dark{
+
+	background-color: grey;
+	color:white;
+}
+
+
+.box p{
+	background-color:white;
+	border:solid;
+	margin:0px;
+	padding:0px;
+}
+
